@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TMDB</string>
+    <string name="judul_acara">Judul Acara</string>
+    <string name="cover">Cover</string>
+    <string name="backdrop">Backdrop</string>
+    <string name="tanggal_rilis">Tanggal Rilis</string>
+    <string name="genre">Genre</string>
+    <string name="rating">Rating</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="durasi">Durasi</string>
+    <string name="user_score">User Score</string>
+    <string name="splash_screen">splash screen</string>
+    <string name="toggle">Toggle</string>
+    <string name="movie">Movie</string>
+    <string name="tvshow">TV Show</string>
+    <string name="title_favorite">Favorite</string>
+</resources>
